@@ -7,4 +7,6 @@ tags:
   - sit
   - bus
 ---
+![Do you want another coffee, Kofi Annan?](/img/products-grid1.jpg)
+
 Because you want to?
